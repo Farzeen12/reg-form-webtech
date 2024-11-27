@@ -1,0 +1,48 @@
+html
+{
+    background-image: url(https://plus.unsplash.com/premium_photo-1701534008693-0eee0632d47a?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-attachment: fixed;
+}
+body
+{
+    
+}
+h1
+{
+    font-family:"Old English Text MT", sans-serif;
+    text-shadow: 0px 0px 10px red;
+    text-align: center;
+    color: white;
+
+}
+table
+{
+    width: 100%;
+    padding: 25px;
+}
+legend
+{
+    background-color: black;
+    font-family:"Old English Text MT", sans-serif;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    border: 3px solid white;
+}
+fieldset
+{
+    border: 3px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+table td
+{
+    padding: 15px;
+    border-radius: 10px;
+}
+table td input
+{
+    border-radius: 3px;
+}
+:hover
